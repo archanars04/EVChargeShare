@@ -1,0 +1,47 @@
+[
+    {
+        "name": "GreenVolt Hub",
+        "distance": 2.1,
+        "wait_time": 35,
+        "cost_per_kwh": 12,
+        "available_chargers": 1,
+        "total_chargers": 6,
+        "charging_speed": "Fast"
+    },
+    {
+        "name": "EcoCharge Central",
+        "distance": 3.4,
+        "wait_time": 7,
+        "cost_per_kwh": 10,
+        "available_chargers": 4,
+        "total_chargers": 6,
+        "charging_speed": "Fast"
+    },
+    {
+        "name": "PowerGo Station",
+        "distance": 4.1,
+        "wait_time": 8,
+        "cost_per_kwh": 8,
+        "available_chargers": 2,
+        "total_chargers": 4,
+        "charging_speed": "Medium"
+    },
+    {
+        "name": "FastCharge Point",
+        "distance": 5.7,
+        "wait_time": 47,
+        "cost_per_kwh": 11,
+        "available_chargers": 1,
+        "total_chargers": 8,
+        "charging_speed": "Ultra Fast"
+    },
+    {
+        "name": "ChargeMax Station",
+        "distance": 6.2,
+        "wait_time": 15,
+        "cost_per_kwh": 9,
+        "available_chargers": 3,
+        "total_chargers": 5,
+        "charging_speed": "Fast"
+    }
+]
